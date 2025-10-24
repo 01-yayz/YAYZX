@@ -124,5 +124,12 @@
     "role": "user",
     "expiresAt": 1763994413239,
     "createdAt": 1761316013245
+  },
+  {
+    "username": "p",
+    "password": "p",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761316214876
   }
 ]
