@@ -68,5 +68,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761310668472
+  },
+  {
+    "username": "TAMZ",
+    "password": "TAMZ",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761312994055
   }
 ]
