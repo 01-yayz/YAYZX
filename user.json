@@ -89,5 +89,12 @@
     "role": "user",
     "expiresAt": 1769262595677,
     "createdAt": 1761313795679
+  },
+  {
+    "username": "rontok",
+    "password": "1",
+    "role": "user",
+    "expiresAt": 1769262647719,
+    "createdAt": 1761313847719
   }
 ]
