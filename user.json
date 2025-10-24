@@ -131,5 +131,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761316214876
+  },
+  {
+    "username": "oby",
+    "password": "2013",
+    "role": "user",
+    "expiresAt": 1763996251411,
+    "createdAt": 1761317851411
   }
 ]
