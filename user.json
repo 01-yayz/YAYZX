@@ -215,5 +215,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761360146691
+  },
+  {
+    "username": "Rimuru",
+    "password": "Rimuru",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761361330030
   }
 ]
