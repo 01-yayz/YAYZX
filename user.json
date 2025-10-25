@@ -299,5 +299,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761364942719
+  },
+  {
+    "username": "Killer",
+    "password": "Razka123",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761366706991
   }
 ]
