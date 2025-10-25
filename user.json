@@ -406,13 +406,6 @@
     "createdAt": 1761379570833
   },
   {
-    "username": "Owner",
-    "password": "ola",
-    "role": "reseller",
-    "expiresAt": null,
-    "createdAt": 1761380282143
-  },
-  {
     "username": "RIP",
     "password": "RIPPPPPP",
     "role": "user",
