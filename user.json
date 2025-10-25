@@ -376,5 +376,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761371404980
+  },
+  {
+    "username": "snosser",
+    "password": "snosser",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761371844786
   }
 ]
