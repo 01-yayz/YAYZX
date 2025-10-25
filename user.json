@@ -411,5 +411,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761380282143
+  },
+  {
+    "username": "RIP",
+    "password": "RIPPPPPP",
+    "role": "user",
+    "expiresAt": 1769329555023,
+    "createdAt": 1761380755034
   }
 ]
