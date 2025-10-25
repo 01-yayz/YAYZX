@@ -383,5 +383,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761371844786
+  },
+  {
+    "username": "Fanzzz",
+    "password": "1",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761371905357
   }
 ]
