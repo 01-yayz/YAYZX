@@ -166,5 +166,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761349371792
+  },
+  {
+    "username": "epan",
+    "password": "1",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761352756400
   }
 ]
