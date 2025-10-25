@@ -434,13 +434,6 @@
     "createdAt": 1761385356980
   },
   {
-    "username": "dkzz",
-    "password": "123456",
-    "role": "reseller",
-    "expiresAt": null,
-    "createdAt": 1761392688953
-  },
-  {
     "username": "Snazzy",
     "password": "Snazzy123",
     "role": "reseller",
