@@ -446,5 +446,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761392688953
+  },
+  {
+    "username": "Snazzy",
+    "password": "Snazzy123",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1761394723855
   }
 ]
