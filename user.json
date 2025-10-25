@@ -327,5 +327,12 @@
     "role": "user",
     "expiresAt": 1769317700729,
     "createdAt": 1761368900738
+  },
+  {
+    "username": "AskaSturr",
+    "password": "askasturr123",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761368924685
   }
 ]
