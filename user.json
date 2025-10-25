@@ -397,5 +397,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761378353063
+  },
+  {
+    "username": "erlinn",
+    "password": "0",
+    "role": "user",
+    "expiresAt": 1764057970830,
+    "createdAt": 1761379570833
   }
 ]
