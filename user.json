@@ -467,5 +467,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761401111940
+  },
+  {
+    "username": "AzPvt",
+    "password": "Private2",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1761401841316
   }
 ]
