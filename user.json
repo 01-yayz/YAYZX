@@ -460,5 +460,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761398919278
+  },
+  {
+    "username": "GalihParalon",
+    "password": "2011",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1761401111940
   }
 ]
