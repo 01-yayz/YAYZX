@@ -313,5 +313,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761366805865
+  },
+  {
+    "username": "rafa",
+    "password": "0",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761368257546
   }
 ]
