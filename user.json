@@ -250,5 +250,12 @@
     "role": "user",
     "expiresAt": 1777086894576,
     "createdAt": 1761362094576
+  },
+  {
+    "username": "zill",
+    "password": "zill",
+    "role": "user",
+    "expiresAt": 1764040650555,
+    "createdAt": 1761362250559
   }
 ]
