@@ -390,5 +390,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761375071039
+  },
+  {
+    "username": "Askaa",
+    "password": "Aska011",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1761377932342
   }
 ]
