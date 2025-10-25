@@ -21,13 +21,6 @@
     "createdAt": 1761294995986
   },
   {
-    "username": "kill",
-    "password": "killstore",
-    "role": "reseller",
-    "expiresAt": null,
-    "createdAt": 1761296094873
-  },
-  {
     "username": "IndraStore",
     "password": "1",
     "role": "reseller",
