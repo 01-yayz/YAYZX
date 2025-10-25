@@ -320,5 +320,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761368257546
+  },
+  {
+    "username": "Hanzz",
+    "password": "123",
+    "role": "user",
+    "expiresAt": 1769317700729,
+    "createdAt": 1761368900738
   }
 ]
