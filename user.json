@@ -173,5 +173,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761352756400
+  },
+  {
+    "username": "putzz",
+    "password": "0",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761354368791
   }
 ]
