@@ -341,5 +341,12 @@
     "role": "user",
     "expiresAt": 1764048970195,
     "createdAt": 1761370570206
+  },
+  {
+    "username": "khai",
+    "password": "khai",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761370585107
   }
 ]
