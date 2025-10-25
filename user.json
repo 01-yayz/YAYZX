@@ -453,5 +453,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761394723855
+  },
+  {
+    "username": "AzzHere",
+    "password": "006",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1761398919278
   }
 ]
