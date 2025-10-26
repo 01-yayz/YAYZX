@@ -474,5 +474,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761452302710
+  },
+  {
+    "username": "Abdi2",
+    "password": "12345",
+    "role": "user",
+    "expiresAt": 1764130739988,
+    "createdAt": 1761452339997
   }
 ]
