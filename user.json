@@ -467,5 +467,12 @@
     "role": "reseller",
     "expiresAt": 1792987807385,
     "createdAt": 1761451807393
+  },
+  {
+    "username": "Muza",
+    "password": "Muza12",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761452302710
   }
 ]
