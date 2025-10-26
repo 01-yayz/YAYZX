@@ -537,5 +537,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761472091201
+  },
+  {
+    "username": "Kall",
+    "password": "123",
+    "role": "user",
+    "expiresAt": 1764150864050,
+    "createdAt": 1761472464054
   }
 ]
