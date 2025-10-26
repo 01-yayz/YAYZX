@@ -558,5 +558,12 @@
     "role": "user",
     "expiresAt": 1764152795177,
     "createdAt": 1761474395183
+  },
+  {
+    "username": "donzzArthur",
+    "password": "donzz23",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761475049452
   }
 ]
