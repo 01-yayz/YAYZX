@@ -614,5 +614,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761485254428
+  },
+  {
+    "username": "Xyro12",
+    "password": "Xyro12",
+    "role": "user",
+    "expiresAt": 1764164170993,
+    "createdAt": 1761485770999
   }
 ]
