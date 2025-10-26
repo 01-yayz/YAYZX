@@ -460,5 +460,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761450839046
+  },
+  {
+    "username": "rafii",
+    "password": "qila1",
+    "role": "reseller",
+    "expiresAt": 1792987807385,
+    "createdAt": 1761451807393
   }
 ]
