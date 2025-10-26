@@ -502,5 +502,12 @@
     "role": "user",
     "expiresAt": 1764131037444,
     "createdAt": 1761452637469
+  },
+  {
+    "username": "Ridwan1",
+    "password": "Ridwan1",
+    "role": "user",
+    "expiresAt": 1764131223799,
+    "createdAt": 1761452823800
   }
 ]
