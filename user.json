@@ -530,5 +530,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761470454220
+  },
+  {
+    "username": "fardan",
+    "password": "fardan23",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1761472091201
   }
 ]
