@@ -488,5 +488,12 @@
     "role": "user",
     "expiresAt": 1764130954833,
     "createdAt": 1761452554860
+  },
+  {
+    "username": "Lanz",
+    "password": "Lanz12",
+    "role": "user",
+    "expiresAt": 1777177403742,
+    "createdAt": 1761452603762
   }
 ]
