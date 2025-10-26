@@ -602,13 +602,6 @@
     "createdAt": 1761479059409
   },
   {
-    "username": "tes",
-    "password": "user1",
-    "role": "user",
-    "expiresAt": 1764159632519,
-    "createdAt": 1761481232553
-  },
-  {
     "username": "Linx",
     "password": "Linx1",
     "role": "user",
