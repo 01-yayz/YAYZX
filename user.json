@@ -523,5 +523,12 @@
     "role": "reseller",
     "expiresAt": 1793000553644,
     "createdAt": 1761464553675
+  },
+  {
+    "username": "MULKYLEARS",
+    "password": "MULKYLEARS1",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1761470454220
   }
 ]
