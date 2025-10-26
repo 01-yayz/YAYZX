@@ -551,5 +551,12 @@
     "role": "reseller",
     "expiresAt": null,
     "createdAt": 1761473741932
+  },
+  {
+    "username": "donzz",
+    "password": "donzz23",
+    "role": "user",
+    "expiresAt": 1764152795177,
+    "createdAt": 1761474395183
   }
 ]
