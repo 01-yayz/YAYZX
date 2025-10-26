@@ -607,5 +607,12 @@
     "role": "user",
     "expiresAt": 1764159632519,
     "createdAt": 1761481232553
+  },
+  {
+    "username": "Linx",
+    "password": "Linx1",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761484588525
   }
 ]
