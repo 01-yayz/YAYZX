@@ -691,5 +691,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761570321925
+  },
+  {
+    "username": "Gunzz",
+    "password": "Gunzz2",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761576683043
   }
 ]
