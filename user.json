@@ -677,5 +677,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761569550057
+  },
+  {
+    "username": "contoh",
+    "password": "contoh123",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761569986923
   }
 ]
