@@ -649,5 +649,12 @@
     "role": "user",
     "expiresAt": 1764240497768,
     "createdAt": 1761562097768
+  },
+  {
+    "username": "falsbug",
+    "password": "falsbug1",
+    "role": "user",
+    "expiresAt": 1777287168984,
+    "createdAt": 1761562368985
   }
 ]
