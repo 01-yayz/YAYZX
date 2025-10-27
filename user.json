@@ -670,5 +670,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761568724350
+  },
+  {
+    "username": "riqq",
+    "password": "quinsha09",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761569550057
   }
 ]
