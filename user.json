@@ -621,5 +621,12 @@
     "role": "user",
     "expiresAt": 1764176587500,
     "createdAt": 1761498187505
+  },
+  {
+    "username": "dayat",
+    "password": "dayat23",
+    "role": "user",
+    "expiresAt": 1764221052710,
+    "createdAt": 1761542652713
   }
 ]
