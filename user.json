@@ -5,5 +5,12 @@
     "role": "owner",
     "expiresAt": 1793192020916,
     "createdAt": 1761656020916
+  },
+  {
+    "username": "RAFZ",
+    "password": "RAFZ",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1761688018109
   }
 ]
