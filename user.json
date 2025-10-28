@@ -684,5 +684,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761635964884
+  },
+  {
+    "username": "langx",
+    "password": "langx23",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761639782936
   }
 ]
