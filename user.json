@@ -691,5 +691,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761639782936
+  },
+  {
+    "username": "Lanzsx",
+    "password": "Lanz123",
+    "role": "reseller",
+    "expiresAt": 1793188737241,
+    "createdAt": 1761652737246
   }
 ]
