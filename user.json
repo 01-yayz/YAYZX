@@ -677,5 +677,12 @@
     "role": "user",
     "expiresAt": 1764312479267,
     "createdAt": 1761634079267
+  },
+  {
+    "username": "zamx",
+    "password": "zamx23",
+    "role": "user",
+    "expiresAt": null,
+    "createdAt": 1761635964884
   }
 ]
