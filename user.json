@@ -1,12 +1,12 @@
 [
   {
-   "username": "YAYZ",
+    "username": "YAYZ",
     "password": "YAYZ",
     "role": "owner",
     "expiresAt": 1763991477199,
     "createdAt": 1761297680747
-   },
-   {
+  },
+  {
     "username": "dizz",
     "password": "1",
     "role": "reseller",
@@ -663,5 +663,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761576683043
+  },
+  {
+    "username": "vinz",
+    "password": "vinz1",
+    "role": "user",
+    "expiresAt": 1766901000849,
+    "createdAt": 1761630600849
   }
 ]
