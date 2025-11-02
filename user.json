@@ -42,13 +42,6 @@
     "createdAt": 1761909501929
   },
   {
-    "username": "zrimn",
-    "password": "balegmoal",
-    "role": "user",
-    "expiresAt": null,
-    "createdAt": 1761919746149
-  },
-  {
     "username": "rapi",
     "password": "rapi11",
     "role": "reseller",
