@@ -47,5 +47,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1761919746149
+  },
+  {
+    "username": "rapi",
+    "password": "rapi11",
+    "role": "reseller",
+    "expiresAt": null,
+    "createdAt": 1762046265502
   }
 ]
