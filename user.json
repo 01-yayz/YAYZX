@@ -75,5 +75,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1762073417421
+  },
+  {
+    "username": "Ucup",
+    "password": "ucup",
+    "role": "reseller",
+    "expiresAt": 1793698024719,
+    "createdAt": 1762162024730
   }
 ]
